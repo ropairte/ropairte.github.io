@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ropairte.github.io/sitemap.html
+Sitemap: https://ropairte.github.io/app/sitemap.html
+Sitemap: https://ropairte.github.io/assets/sitemap.html
+Sitemap: https://ropairte.github.io/includes/sitemap.html
+Sitemap: https://ropairte.github.io/src/sitemap.html
